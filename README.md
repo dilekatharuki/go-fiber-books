@@ -142,6 +142,6 @@ GET /books?page=1&limit=5&search=golang
 
 ## 👨‍💻 Author
 
-Developed by [Matheesha Mihiranga]  
+Developed by [dilekatharukiha Mihiranga]  
 For internship/academic project use.
 ```
